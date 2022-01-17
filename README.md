@@ -1,2 +1,2 @@
-# test_smart_contract
-Inspired by freeCodeCamp's "How to write and deploy your first smart contract"
+# My first smart contract
+From freeCodeCamp's [How to write and deploy your first smart contract](How to write and deploy your first smart contract).
